@@ -1,0 +1,25 @@
+#gameboard {
+    border: 3px solid;
+}
+
+#scoreText {
+    font-family: "consolas", monospace;
+    font-size: 100px;
+    margin-left: 41.7%;
+}
+
+#resetBtn {
+    font-family: "Permanant Marker", cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border-radius: 15;
+    border: 4px solid;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 46.5%;
+}
+
+#gameContainer {
+    text-align: center;
+}
